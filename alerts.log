@@ -22,3 +22,249 @@
 [2026-08-22 20:51:23] MEDIUM   connection_flood               src=192.168.29.1 dst=192.168.29.17:None - 10 packets in 10s window
 [2026-08-22 20:51:23] MEDIUM   connection_flood               src=192.168.29.17 dst=192.168.29.1:None - 10 packets in 10s window
 [2026-08-22 20:51:30] MEDIUM   connection_flood               src=35.201.82.116 dst=192.168.29.17:None - 10 packets in 10s window
+[2026-09-22 09:59:47] MEDIUM   connection_flood               src=172.16.10.170 dst=20.42.73.30:None - 10 packets in 10s window
+[2026-09-22 09:59:48] MEDIUM   connection_flood               src=20.184.175.10 dst=172.16.10.170:None - 10 packets in 10s window
+[2026-09-22 09:59:49] MEDIUM   connection_flood               src=0.0.0.0 dst=255.255.255.255:None - 10 packets in 10s window
+[2026-09-22 09:59:49] MEDIUM   connection_flood               src=172.16.7.126 dst=172.16.15.255:None - 10 packets in 10s window
+[2026-09-22 09:59:52] MEDIUM   connection_flood               src=20.189.172.76 dst=172.16.10.170:None - 10 packets in 10s window
+[2026-09-22 09:59:52] MEDIUM   connection_flood               src=8.8.4.4 dst=172.16.10.170:None - 10 packets in 10s window
+[2026-09-22 09:59:53] MEDIUM   connection_flood               src=23.217.111.48 dst=172.16.10.170:None - 10 packets in 10s window
+[2026-09-22 09:59:53] MEDIUM   connection_flood               src=140.82.114.21 dst=172.16.10.170:None - 10 packets in 10s window
+[2026-09-22 09:59:53] MEDIUM   connection_flood               src=20.42.73.30 dst=172.16.10.170:None - 10 packets in 10s window
+[2026-09-22 09:59:56] MEDIUM   connection_flood               src=8.8.8.8 dst=172.16.10.170:None - 10 packets in 10s window
+[2026-09-22 09:59:59] MEDIUM   connection_flood               src=172.67.72.185 dst=172.16.10.170:None - 10 packets in 10s window
+[2026-09-22 10:00:10] MEDIUM   connection_flood               src=20.207.73.85 dst=172.16.10.170:None - 10 packets in 10s window
+[2026-09-22 10:00:18] MEDIUM   connection_flood               src=172.16.10.170 dst=20.184.175.8:None - 32 packets in 10s window
+[2026-09-22 10:00:21] MEDIUM   connection_flood               src=0.0.0.0 dst=255.255.255.255:None - 28 packets in 10s window
+[2026-09-22 10:00:23] MEDIUM   connection_flood               src=172.16.5.177 dst=224.0.0.252:None - 10 packets in 10s window
+[2026-09-22 10:00:29] MEDIUM   connection_flood               src=172.67.72.185 dst=172.16.10.170:None - 21 packets in 10s window
+[2026-09-22 10:00:33] MEDIUM   connection_flood               src=172.16.9.115 dst=172.16.15.255:None - 10 packets in 10s window
+[2026-09-22 10:00:33] MEDIUM   connection_flood               src=172.64.155.209 dst=172.16.10.170:None - 10 packets in 10s window
+[2026-09-22 10:00:34] MEDIUM   connection_flood               src=3.6.199.65 dst=172.16.10.170:None - 10 packets in 10s window
+[2026-09-22 10:00:39] MEDIUM   connection_flood               src=172.16.1.82 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 10:00:40] MEDIUM   connection_flood               src=172.16.4.139 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 10:00:40] MEDIUM   connection_flood               src=169.254.223.162 dst=169.254.255.255:None - 10 packets in 10s window
+[2026-09-22 10:00:48] MEDIUM   connection_flood               src=172.16.10.170 dst=172.64.155.209:None - 18 packets in 10s window
+[2026-09-22 10:00:51] MEDIUM   connection_flood               src=0.0.0.0 dst=255.255.255.255:None - 10 packets in 10s window
+[2026-09-22 10:00:56] MEDIUM   connection_flood               src=8.8.4.4 dst=172.16.10.170:None - 10 packets in 10s window
+[2026-09-22 10:00:56] MEDIUM   connection_flood               src=172.16.7.126 dst=172.16.15.255:None - 10 packets in 10s window
+[2026-09-22 10:00:57] MEDIUM   connection_flood               src=150.171.28.11 dst=172.16.10.170:None - 10 packets in 10s window
+[2026-09-22 10:00:57] MEDIUM   connection_flood               src=172.16.8.83 dst=255.255.255.255:None - 10 packets in 10s window
+[2026-09-22 10:00:59] MEDIUM   connection_flood               src=172.67.72.185 dst=172.16.10.170:None - 20 packets in 10s window
+[2026-09-22 10:01:00] MEDIUM   connection_flood               src=172.16.8.115 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 10:01:04] MEDIUM   connection_flood               src=172.16.9.115 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 10:01:06] MEDIUM   connection_flood               src=172.16.3.153 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 10:01:12] MEDIUM   connection_flood               src=20.207.73.85 dst=172.16.10.170:None - 10 packets in 10s window
+[2026-09-22 11:47:41] MEDIUM   connection_flood               src=172.18.3.181 dst=104.18.19.203:None - 10 packets in 10s window
+[2026-09-22 11:47:41] MEDIUM   connection_flood               src=20.42.65.85 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:41] HIGH     port_scan                      src=20.42.65.85 dst=172.18.3.181:None - 10 unique dest ports in 5s window
+[ACTION] 20.42.65.85 rule=port_scan action=dry_run_block
+[2026-09-22 11:47:43] MEDIUM   connection_flood               src=20.207.73.85 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:43] MEDIUM   connection_flood               src=4.150.223.105 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:43] HIGH     port_scan                      src=4.150.223.105 dst=172.18.3.181:None - 10 unique dest ports in 5s window
+[ACTION] 4.150.223.105 rule=port_scan action=dry_run_block
+[2026-09-22 11:47:43] MEDIUM   connection_flood               src=13.107.213.48 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:43] MEDIUM   connection_flood               src=8.8.8.8 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:43] CRITICAL syn_flood                      src=172.18.3.181 dst=140.82.112.22:443 - 10 SYNs in 5s window
+[ACTION] 172.18.3.181 rule=syn_flood action=dry_run_block
+[2026-09-22 11:47:44] MEDIUM   connection_flood               src=104.18.37.228 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:44] MEDIUM   connection_flood               src=23.48.245.153 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:44] MEDIUM   connection_flood               src=13.107.13.93 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:46] HIGH     port_scan                      src=20.207.73.85 dst=172.18.3.181:None - 10 unique dest ports in 5s window
+[ACTION] 20.207.73.85 rule=port_scan action=dry_run_block
+[2026-09-22 11:47:46] MEDIUM   connection_flood               src=20.52.64.207 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:48] MEDIUM   connection_flood               src=140.82.112.22 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:49] MEDIUM   connection_flood               src=192.168.1.6 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:50] MEDIUM   connection_flood               src=104.18.19.203 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:50] MEDIUM   connection_flood               src=172.18.3.31 dst=224.0.0.22:None - 10 packets in 10s window
+[2026-09-22 11:47:53] MEDIUM   connection_flood               src=150.171.76.16 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:55] MEDIUM   connection_flood               src=172.64.41.3 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:55] MEDIUM   connection_flood               src=162.159.61.3 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:55] MEDIUM   connection_flood               src=13.107.246.68 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:55] MEDIUM   connection_flood               src=140.82.114.22 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:55] MEDIUM   connection_flood               src=8.8.4.4 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:56] MEDIUM   connection_flood               src=52.123.128.14 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:56] HIGH     port_scan                      src=150.171.76.16 dst=172.18.3.181:None - 10 unique dest ports in 5s window
+[ACTION] 150.171.76.16 rule=port_scan action=dry_run_block
+[2026-09-22 11:47:56] MEDIUM   connection_flood               src=13.107.253.48 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:57] MEDIUM   connection_flood               src=20.42.65.93 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:57] MEDIUM   connection_flood               src=140.82.112.21 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:57] MEDIUM   connection_flood               src=172.18.4.107 dst=239.255.255.250:None - 10 packets in 10s window
+[2026-09-22 11:47:58] MEDIUM   connection_flood               src=23.48.245.122 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:59] MEDIUM   connection_flood               src=185.199.110.133 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:59] MEDIUM   connection_flood               src=48.218.107.66 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:47:59] MEDIUM   connection_flood               src=23.217.111.64 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:02] MEDIUM   connection_flood               src=23.48.245.155 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:04] MEDIUM   connection_flood               src=23.217.111.57 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:10] MEDIUM   connection_flood               src=40.126.17.133 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:11] MEDIUM   connection_flood               src=172.18.3.181 dst=23.217.111.64:None - 629 packets in 10s window
+[2026-09-22 11:48:12] MEDIUM   connection_flood               src=13.107.226.68 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:12] MEDIUM   connection_flood               src=20.42.65.85 dst=172.18.3.181:None - 100 packets in 10s window
+[2026-09-22 11:48:12] MEDIUM   connection_flood               src=20.42.73.26 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:13] MEDIUM   connection_flood               src=20.207.73.85 dst=172.18.3.181:None - 28 packets in 10s window
+[2026-09-22 11:48:13] CRITICAL syn_flood                      src=172.18.3.181 dst=20.207.73.85:443 - 14 SYNs in 5s window
+[ACTION] 172.18.3.181 rule=syn_flood action=dry_run_block
+[2026-09-22 11:48:14] MEDIUM   connection_flood               src=8.8.8.8 dst=172.18.3.181:None - 79 packets in 10s window
+[2026-09-22 11:48:14] MEDIUM   connection_flood               src=4.150.223.105 dst=172.18.3.181:None - 14 packets in 10s window
+[2026-09-22 11:48:15] MEDIUM   connection_flood               src=172.64.155.209 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:16] MEDIUM   connection_flood               src=172.16.69.207 dst=224.0.0.22:None - 10 packets in 10s window
+[2026-09-22 11:48:16] MEDIUM   connection_flood               src=172.18.5.198 dst=224.0.0.22:None - 10 packets in 10s window
+[2026-09-22 11:48:17] HIGH     signature:shell_injection_cmd  src=172.18.3.181 dst=172.64.41.3:443 - Payload matched signature 'shell_injection_cmd'
+[ACTION] 172.18.3.181 rule=signature:shell_injection_cmd action=dry_run_block
+[2026-09-22 11:48:21] MEDIUM   connection_flood               src=140.82.112.22 dst=172.18.3.181:None - 59 packets in 10s window
+[2026-09-22 11:48:25] MEDIUM   connection_flood               src=150.171.76.16 dst=172.18.3.181:None - 13 packets in 10s window
+[2026-09-22 11:48:25] MEDIUM   connection_flood               src=104.208.16.94 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:25] HIGH     port_scan                      src=104.208.16.94 dst=172.18.3.181:None - 10 unique dest ports in 5s window
+[ACTION] 104.208.16.94 rule=port_scan action=dry_run_block
+[2026-09-22 11:48:25] MEDIUM   connection_flood               src=13.107.5.93 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:26] MEDIUM   connection_flood               src=172.18.3.196 dst=239.255.255.250:None - 10 packets in 10s window
+[2026-09-22 11:48:26] MEDIUM   connection_flood               src=172.18.5.175 dst=239.255.255.250:None - 10 packets in 10s window
+[2026-09-22 11:48:26] MEDIUM   connection_flood               src=23.217.111.41 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:28] MEDIUM   connection_flood               src=172.18.3.158 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:29] MEDIUM   connection_flood               src=172.18.2.18 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:29] MEDIUM   connection_flood               src=20.42.65.88 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:29] MEDIUM   connection_flood               src=23.217.111.105 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:29] MEDIUM   connection_flood               src=172.18.6.36 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:29] HIGH     port_scan                      src=20.207.73.85 dst=172.18.3.181:None - 10 unique dest ports in 5s window
+[ACTION] 20.207.73.85 rule=port_scan action=dry_run_block
+[2026-09-22 11:48:30] MEDIUM   connection_flood               src=172.18.1.241 dst=172.18.7.255:None - 10 packets in 10s window
+[2026-09-22 11:48:30] MEDIUM   connection_flood               src=23.217.111.64 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:30] MEDIUM   connection_flood               src=172.18.1.249 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:30] MEDIUM   connection_flood               src=172.18.6.6 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:30] MEDIUM   connection_flood               src=172.18.1.213 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:30] MEDIUM   connection_flood               src=172.18.2.151 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:30] MEDIUM   connection_flood               src=172.18.5.193 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:30] MEDIUM   connection_flood               src=172.18.3.96 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:30] MEDIUM   connection_flood               src=172.18.2.73 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:30] MEDIUM   connection_flood               src=172.18.2.156 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:30] MEDIUM   connection_flood               src=172.18.2.171 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:30] MEDIUM   connection_flood               src=172.18.3.125 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:30] MEDIUM   connection_flood               src=172.18.3.38 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:30] MEDIUM   connection_flood               src=172.18.2.178 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:30] MEDIUM   connection_flood               src=172.18.3.108 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:30] MEDIUM   connection_flood               src=172.18.1.131 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:30] MEDIUM   connection_flood               src=172.18.2.155 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:31] MEDIUM   connection_flood               src=8.8.4.4 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:31] MEDIUM   connection_flood               src=172.18.1.182 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:32] MEDIUM   connection_flood               src=172.18.4.220 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:32] MEDIUM   connection_flood               src=172.18.2.198 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:32] MEDIUM   connection_flood               src=172.18.2.193 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:33] MEDIUM   connection_flood               src=172.18.2.101 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:33] MEDIUM   connection_flood               src=172.18.1.89 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:33] MEDIUM   connection_flood               src=172.18.1.251 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:34] MEDIUM   connection_flood               src=172.18.4.214 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:34] MEDIUM   connection_flood               src=172.18.6.145 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:34] MEDIUM   connection_flood               src=172.18.5.49 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:34] MEDIUM   connection_flood               src=172.18.3.127 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:35] MEDIUM   connection_flood               src=172.18.2.188 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:35] MEDIUM   connection_flood               src=172.18.6.114 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:36] MEDIUM   connection_flood               src=1.1.1.1 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:36] MEDIUM   connection_flood               src=140.82.113.21 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:37] MEDIUM   connection_flood               src=172.18.5.35 dst=239.255.255.250:None - 10 packets in 10s window
+[2026-09-22 11:48:37] MEDIUM   connection_flood               src=150.171.75.16 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:37] MEDIUM   connection_flood               src=172.18.6.167 dst=172.18.7.255:None - 10 packets in 10s window
+[2026-09-22 11:48:38] HIGH     port_scan                      src=8.8.8.8 dst=172.18.3.181:None - 10 unique dest ports in 5s window
+[ACTION] 8.8.8.8 rule=port_scan action=dry_run_block
+[2026-09-22 11:48:38] MEDIUM   connection_flood               src=172.18.4.0 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:39] HIGH     port_scan                      src=8.8.4.4 dst=172.18.3.181:None - 10 unique dest ports in 5s window
+[ACTION] 8.8.4.4 rule=port_scan action=dry_run_block
+[2026-09-22 11:48:39] MEDIUM   connection_flood               src=0.0.0.0 dst=255.255.255.255:None - 10 packets in 10s window
+[2026-09-22 11:48:40] MEDIUM   connection_flood               src=172.18.1.32 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:40] MEDIUM   connection_flood               src=162.159.61.3 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:40] MEDIUM   connection_flood               src=172.64.41.3 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:40] HIGH     port_scan                      src=162.159.61.3 dst=172.18.3.181:None - 10 unique dest ports in 5s window
+[ACTION] 162.159.61.3 rule=port_scan action=dry_run_block
+[2026-09-22 11:48:40] HIGH     port_scan                      src=172.64.41.3 dst=172.18.3.181:None - 10 unique dest ports in 5s window
+[ACTION] 172.64.41.3 rule=port_scan action=dry_run_block
+[2026-09-22 11:48:40] MEDIUM   connection_flood               src=172.18.3.82 dst=239.255.255.250:None - 10 packets in 10s window
+[2026-09-22 11:48:41] MEDIUM   connection_flood               src=23.48.245.153 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:41] MEDIUM   connection_flood               src=23.48.245.122 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:41] MEDIUM   connection_flood               src=23.217.111.10 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:41] MEDIUM   connection_flood               src=4.150.223.106 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:41] MEDIUM   connection_flood               src=150.171.28.11 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:41] MEDIUM   connection_flood               src=172.18.2.10 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:48:41] MEDIUM   connection_flood               src=40.126.17.133 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:48:42] MEDIUM   connection_flood               src=172.18.3.181 dst=40.104.68.2:None - 1157 packets in 10s window
+[2026-09-22 11:49:06] MEDIUM   connection_flood               src=172.18.3.181 dst=13.107.213.68:None - 10 packets in 10s window
+[2026-09-22 11:49:06] MEDIUM   connection_flood               src=13.107.213.68 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:49:07] MEDIUM   connection_flood               src=23.48.245.122 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:49:07] MEDIUM   connection_flood               src=4.150.223.96 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:49:08] MEDIUM   connection_flood               src=172.18.2.151 dst=239.255.255.250:None - 10 packets in 10s window
+[2026-09-22 11:49:08] MEDIUM   connection_flood               src=8.8.8.8 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:49:08] MEDIUM   connection_flood               src=172.18.1.161 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:08] MEDIUM   connection_flood               src=1.1.1.1 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:49:09] MEDIUM   connection_flood               src=172.18.6.137 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:09] MEDIUM   connection_flood               src=172.18.2.165 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:09] MEDIUM   connection_flood               src=8.8.4.4 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:49:10] MEDIUM   connection_flood               src=20.42.73.30 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:49:10] MEDIUM   connection_flood               src=13.107.246.48 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:49:10] MEDIUM   connection_flood               src=40.104.68.2 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:49:10] MEDIUM   connection_flood               src=142.250.122.113 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:49:10] MEDIUM   connection_flood               src=172.18.2.18 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:10] MEDIUM   connection_flood               src=150.171.28.11 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:49:11] MEDIUM   connection_flood               src=4.150.223.105 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:49:11] MEDIUM   connection_flood               src=172.18.3.96 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:11] MEDIUM   connection_flood               src=172.18.3.127 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:11] MEDIUM   connection_flood               src=52.98.123.242 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:49:11] MEDIUM   connection_flood               src=172.18.1.182 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:11] MEDIUM   connection_flood               src=172.18.6.85 dst=172.18.7.255:None - 10 packets in 10s window
+[2026-09-22 11:49:12] MEDIUM   connection_flood               src=40.104.56.178 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:49:12] MEDIUM   connection_flood               src=172.18.3.162 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:12] MEDIUM   connection_flood               src=172.188.155.25 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:49:12] MEDIUM   connection_flood               src=150.171.109.129 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:49:12] MEDIUM   connection_flood               src=172.18.2.155 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:12] MEDIUM   connection_flood               src=172.18.6.167 dst=172.18.7.255:None - 10 packets in 10s window
+[2026-09-22 11:49:12] MEDIUM   connection_flood               src=172.18.3.108 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:13] MEDIUM   connection_flood               src=172.18.4.220 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:13] MEDIUM   connection_flood               src=172.18.2.198 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:14] MEDIUM   connection_flood               src=172.18.2.191 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:14] MEDIUM   connection_flood               src=172.18.2.73 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:14] MEDIUM   connection_flood               src=172.18.2.156 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:14] MEDIUM   connection_flood               src=172.18.3.38 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:14] MEDIUM   connection_flood               src=172.18.2.171 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:14] MEDIUM   connection_flood               src=172.18.1.131 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:14] MEDIUM   connection_flood               src=172.18.5.193 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:14] MEDIUM   connection_flood               src=172.18.6.6 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:14] MEDIUM   connection_flood               src=172.18.3.125 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:14] MEDIUM   connection_flood               src=23.55.106.107 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:49:14] MEDIUM   connection_flood               src=172.18.1.249 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:14] MEDIUM   connection_flood               src=172.18.5.49 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:15] MEDIUM   connection_flood               src=172.18.5.35 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:15] MEDIUM   connection_flood               src=172.18.3.158 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:15] MEDIUM   connection_flood               src=172.18.2.193 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:15] MEDIUM   connection_flood               src=172.18.1.213 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:15] MEDIUM   connection_flood               src=23.217.111.10 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:49:16] MEDIUM   connection_flood               src=172.18.1.54 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:16] MEDIUM   connection_flood               src=172.18.2.178 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:17] MEDIUM   connection_flood               src=172.18.6.17 dst=172.18.7.255:None - 10 packets in 10s window
+[2026-09-22 11:49:17] MEDIUM   connection_flood               src=172.18.4.11 dst=172.18.7.255:None - 10 packets in 10s window
+[2026-09-22 11:49:18] MEDIUM   connection_flood               src=172.18.3.200 dst=224.0.0.252:None - 10 packets in 10s window
+[2026-09-22 11:49:18] MEDIUM   connection_flood               src=172.18.1.89 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:20] MEDIUM   connection_flood               src=172.18.2.101 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:20] MEDIUM   connection_flood               src=172.18.2.211 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:20] MEDIUM   connection_flood               src=172.18.2.46 dst=172.18.7.255:None - 10 packets in 10s window
+[2026-09-22 11:49:21] MEDIUM   connection_flood               src=172.18.4.214 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:22] MEDIUM   connection_flood               src=172.18.5.69 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:23] MEDIUM   connection_flood               src=172.18.2.188 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-22 11:49:28] MEDIUM   connection_flood               src=162.159.61.3 dst=172.18.3.181:None - 10 packets in 10s window
+[2026-09-22 11:49:29] MEDIUM   connection_flood               src=172.18.3.206 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-24 11:36:58] MEDIUM   connection_flood               src=172.16.8.94 dst=224.0.0.252:None - 10 packets in 10s window
+[2026-09-24 11:36:58] MEDIUM   connection_flood               src=172.16.7.184 dst=13.69.116.105:None - 10 packets in 10s window
+[2026-09-24 11:36:59] MEDIUM   connection_flood               src=13.69.116.105 dst=172.16.7.184:None - 10 packets in 10s window
+[2026-09-24 11:36:59] HIGH     signature:shell_injection_cmd  src=172.16.7.184 dst=13.69.116.105:443 - Payload matched signature 'shell_injection_cmd'
+[ACTION] 172.16.7.184 rule=signature:shell_injection_cmd action=dry_run_block
+[2026-09-24 11:37:01] MEDIUM   connection_flood               src=0.0.0.0 dst=255.255.255.255:None - 10 packets in 10s window
+[2026-09-24 11:37:02] MEDIUM   connection_flood               src=20.207.73.85 dst=172.16.7.184:None - 10 packets in 10s window
+[2026-09-24 11:37:02] MEDIUM   connection_flood               src=4.207.44.70 dst=172.16.7.184:None - 10 packets in 10s window
+[2026-09-24 11:37:07] MEDIUM   connection_flood               src=23.217.111.74 dst=172.16.7.184:None - 10 packets in 10s window
+[2026-09-24 11:37:08] MEDIUM   connection_flood               src=8.8.4.4 dst=172.16.7.184:None - 10 packets in 10s window
+[2026-09-24 11:37:09] MEDIUM   connection_flood               src=172.16.4.30 dst=239.255.255.250:None - 10 packets in 10s window
+[2026-09-24 11:37:09] MEDIUM   connection_flood               src=13.69.109.130 dst=172.16.7.184:None - 10 packets in 10s window
+[2026-09-24 11:37:11] MEDIUM   connection_flood               src=172.16.4.160 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-24 11:37:11] MEDIUM   connection_flood               src=172.16.5.110 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-24 11:37:14] MEDIUM   connection_flood               src=172.16.9.230 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-24 11:37:16] MEDIUM   connection_flood               src=172.64.155.209 dst=172.16.7.184:None - 10 packets in 10s window
+[2026-09-24 11:37:17] MEDIUM   connection_flood               src=172.16.9.32 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-24 11:37:17] MEDIUM   connection_flood               src=172.16.8.61 dst=224.0.0.251:None - 10 packets in 10s window
+[2026-09-24 11:37:19] MEDIUM   connection_flood               src=3.6.199.65 dst=172.16.7.184:None - 10 packets in 10s window
+[2026-09-24 11:37:22] MEDIUM   connection_flood               src=23.210.213.138 dst=172.16.7.184:None - 10 packets in 10s window

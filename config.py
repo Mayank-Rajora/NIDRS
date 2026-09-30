@@ -9,7 +9,7 @@ BPF_FILTER = "ip"         # Berkeley Packet Filter applied at capture time
 
 # --- Port scan detection ---
 PORT_SCAN_WINDOW_SECONDS = 5     # sliding window to look at
-PORT_SCAN_UNIQUE_PORT_THRESHOLD = 10   # distinct dest ports from one src IP in window -> alert
+PORT_SCAN_UNIQUE_PORT_THRESHOLD = 20   # distinct dest ports from one src IP in window -> alert
 
 # --- SYN flood detection ---
 SYN_FLOOD_WINDOW_SECONDS = 5
